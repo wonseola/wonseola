@@ -26,6 +26,7 @@
 <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/keras-D00000?style=flat&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/numpy-013243?style=flat&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
   <br>
 <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/nvidia-76B900?style=flat&logo=nvidia&logoColor=white"/>
