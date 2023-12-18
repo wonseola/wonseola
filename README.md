@@ -38,7 +38,6 @@
 <a href="https://www.instagram.com/won_seola/">
 <img src="https://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
 <a href="https://docs.google.com/document/d/1kJ_hDaMpmkpImcUxYhGaPQk1pnEsnMt_24i1fs4lq1w/edit?usp=sharing">
-<img src="https://img.shields.io/badge/resume-E71D29?style=flat&logo=undertale&logoColor=white"/></a>
 </div>
 <br><br>
 </div>
