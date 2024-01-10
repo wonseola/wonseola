@@ -16,7 +16,7 @@
  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=white"/>
  <img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white"/>
 <br>
-🩵
+💚
   <br>
   <img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/>
