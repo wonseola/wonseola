@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=🐥SEOLA🧸&fontAlign=70&rotate=13&fontAlignY=25&desc=&descAlign=40&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&text=🐥SEOLA🧸&fontAlign=70&rotate=13&fontAlignY=8&desc=&descAlign=40&descAlignY=44)
 
 
 <div align="left">
