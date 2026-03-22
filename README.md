@@ -35,12 +35,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonseola&layout=donut&theme=nightowl&hide_border=true&title_color=F7DF1E&text_color=ffffff&bg_color=0D1117" height="180px" />
 </p>
-
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wonseola&theme=react-dark&bg_color=0D1117&hide_border=true" width="90%" />
-</p>
+</p> -->
 
-<br>
 
 ---
 
