@@ -9,13 +9,13 @@
 Hi, I'm **Seola**.  
 I like making things feel simple, useful, and a little lovely.
 
-<br><br>
+<br>
 
 <a href="mailto:your_email@gmail.com"><img src="https://img.shields.io/badge/mail-F6F1FF?style=for-the-badge&logo=gmail&logoColor=6D5DFB&labelColor=F6F1FF&color=F6F1FF" /></a>
 <a href="https://www.instagram.com/won_seola/"><img src="https://img.shields.io/badge/instagram-FFF1F7?style=for-the-badge&logo=instagram&logoColor=D96BA8&labelColor=FFF1F7&color=FFF1F7" /></a>
 <a href="https://wonseola.xyz"><img src="https://img.shields.io/badge/portfolio-EFFFF8?style=for-the-badge&logo=googlechrome&logoColor=33A884&labelColor=EFFFF8&color=EFFFF8" /></a>
 
-<br><br>
+<br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:FFB7C5,35:A7D8FF,70:C8F7DC,100:FFE6A7" />
 
