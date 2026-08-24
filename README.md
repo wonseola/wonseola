@@ -29,16 +29,6 @@
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <br><br>
 
----
-
-### 🌊 DEVELOPMENT FLOW
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wonseola&layout=donut&theme=nightowl&hide_border=true&title_color=F7DF1E&text_color=ffffff&bg_color=0D1117" height="180px" />
-</p>
-<!-- <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=wonseola&theme=react-dark&bg_color=0D1117&hide_border=true" width="90%" />
-</p> -->
-
 
 ---
 
