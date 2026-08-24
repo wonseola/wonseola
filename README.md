@@ -50,7 +50,7 @@
   <a href="mailto:your_email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://docs.google.com/document/d/1kJ_hDaMpmkpImcUxYhGaPQk1pnEsnMt_24i1fs4lq1w/edit?usp=sharing" target="_blank">
+  <a href="https://wonseola.xyz" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googledocs&logoColor=white" />
   </a>
 </p>
